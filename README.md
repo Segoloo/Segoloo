@@ -77,29 +77,6 @@ Passionate about automating mission-critical business processes, integrating cut
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Segoloo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Segoloo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=Segoloo&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
   <p><i>⚡ Constantly building, automating, and scaling intelligent systems.</i></p>
 </div>
