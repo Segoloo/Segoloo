@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect width="256" height="256" rx="60" fill="#EA580C"/>
+  <!-- Pipeline flow: Input -> Transform -> Output -->
+  <g transform="translate(48, 55)" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Pipe 1 -->
+    <path d="M20 50 L60 50 M50 40 L60 50 L50 60" stroke="#FDBA74" stroke-width="8"/>
+    <!-- Gear in middle -->
+    <circle cx="80" cy="50" r="18" fill="#EA580C" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="80" cy="50" r="6" fill="#FFFFFF"/>
+    <!-- Pipe 2 -->
+    <path d="M100 50 L140 50 M130 40 L140 50 L130 60" stroke="#FDBA74" stroke-width="8"/>
+  </g>
+  <text x="128" y="195" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" fill="#FFFFFF" letter-spacing="3">ETL</text>
+</svg>

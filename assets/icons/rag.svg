@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect width="256" height="256" rx="60" fill="#0D9488"/>
+  <g transform="translate(68, 45)" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Vector Database Cylinder -->
+    <ellipse cx="60" cy="30" rx="45" ry="16"/>
+    <path d="M15 30v40c0 8.8 20.1 16 45 16s45-7.2 45-16V30"/>
+    <path d="M15 70v40c0 8.8 20.1 16 45 16s45-7.2 45-16V70"/>
+    <!-- Magnifier / Search Loop -->
+    <circle cx="85" cy="85" r="22" fill="#0D9488" stroke="#FDE047" stroke-width="8"/>
+    <line x1="102" y1="102" x2="120" y2="120" stroke="#FDE047" stroke-width="9"/>
+  </g>
+  <text x="128" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="2">RAG</text>
+</svg>

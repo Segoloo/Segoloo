@@ -116,12 +116,43 @@
 
 <br/>
 
-<!-- COMPLETE DEVELOPMENT ECOSYSTEM (INTERACTIVE SKILL ICONS) -->
+<!-- COMPLETE DEVELOPMENT ECOSYSTEM (TAILORED SQUIRCLE ICONS) -->
 <div align="center">
   <p><b>🛠️ Development &amp; Tooling Ecosystem</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,html,css,tailwind,postgres,mysql,fastapi,docker,git,github,vscode,postman&theme=dark" alt="Tech Stack" />
-  </a>
+  
+  <!-- AI, Automation, Real-Time & Data Engineering -->
+  <p>
+    <a href="https://n8n.io" target="_blank" title="n8n - Workflow Automation">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/n8n.svg" height="42" width="42" alt="n8n" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://flowiseai.com" target="_blank" title="Flowise - AI Agent Flows">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/flowise.svg" height="42" width="42" alt="Flowise" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://openai.com" target="_blank" title="OpenAI / LLM Integrations">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/openai.svg" height="42" width="42" alt="OpenAI" />
+    </a>
+    &nbsp;&nbsp;
+    <span title="RAG - Retrieval-Augmented Generation">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/rag.svg" height="42" width="42" alt="RAG" />
+    </span>
+    &nbsp;&nbsp;
+    <span title="YJS - Collaborative Real-Time State">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/yjs.svg" height="42" width="42" alt="YJS" />
+    </span>
+    &nbsp;&nbsp;
+    <span title="ETL - Data Pipelines & Extraction">
+      <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/etl.svg" height="42" width="42" alt="ETL" />
+    </span>
+  </p>
+
+  <!-- Full-Stack, Databases & Development Tooling -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,postgres,mysql,git,github,vscode,postman&theme=dark" alt="Full-Stack, Databases and Tools" />
+    </a>
+  </p>
 </div>
 
 ---

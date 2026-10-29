@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect width="256" height="256" rx="60" fill="#4338CA"/>
+  <!-- Flowise AI Workflow Node Graphic -->
+  <g transform="translate(48, 48)">
+    <!-- Connected Flow Lines -->
+    <path d="M40 80 L80 40 M40 80 L80 120 M80 40 L120 80 M80 120 L120 80" stroke="#A5B4FC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Nodes -->
+    <circle cx="40" cy="80" r="18" fill="#FFFFFF"/>
+    <circle cx="80" cy="40" r="18" fill="#38BDF8"/>
+    <circle cx="80" cy="120" r="18" fill="#F43F5E"/>
+    <circle cx="120" cy="80" r="22" fill="#FFFFFF"/>
+    <circle cx="120" cy="80" r="10" fill="#4338CA"/>
+  </g>
+  <!-- Flowise text tag -->
+  <text x="128" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF" letter-spacing="1.5">FLOWISE</text>
+</svg>
