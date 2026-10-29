@@ -1,66 +1,69 @@
-<!-- HEADER ANIMATION -->
+<!-- CUSTOM HOSTED ANIMATED HEADER (Guaranteed 100% uptime, no third-party downtime) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,26,30&height=210&section=header&text=Sebastian%20Gomez&fontSize=42&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Business%20Automation%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/header.svg" width="100%" alt="Sebastian Gomez - Header Banner" />
 </div>
 
-<!-- REAL APP ICONS BAR -->
+<br/>
+
+<!-- OFFICIAL APP SQUIRCLE ICONS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sebasgomez-software-dev/" target="_blank" title="LinkedIn Profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/linkedin.svg" height="42" width="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@SegoloRewards" target="_blank" title="YouTube Channel">
-    <img src="https://skillicons.dev/icons?i=youtube" height="42" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/youtube.svg" height="42" width="42" alt="YouTube" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Segoloo" target="_blank" title="GitHub Profile">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/github.svg" height="42" width="42" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sebas151809@gmail.com" title="Direct Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/icons/gmail.svg" height="42" width="42" alt="Gmail" />
   </a>
 </div>
 
 <br/>
 
-<!-- DYNAMIC TYPING ANIMATION -->
+<!-- DYNAMIC TYPING ANIMATION (Optimized single-line vertical spacing) -->
 <div align="center">
   <a href="https://github.com/Segoloo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Full-Stack+Software+Developer+%26+Architect;Business+Automation+%26+AI+Agent+Integrations;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+SQL;n8n+%C2%B7+RAG+Pipelines+%C2%B7+Flowise+%C2%B7+LLMs;Data+Analytics+%26+Custom+BI+Web+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+Developer+%26+Architect;AI+Integrations+%26+Business+Automation;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+SQL;n8n+%C2%B7+RAG+Pipelines+%C2%B7+Flowise+%C2%B7+LLMs;Data+Analytics+%26+Custom+BI+Web+Platforms" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### ⚡ Executive Summary
+### ⚡ Overview
 
-I am a **Software Developer** focused on building high-performance web applications, intelligent business process automations, and custom data intelligence solutions. 
+Software Developer specialized in **Full-Stack Engineering**, **Business Automation**, and **AI & Data Architectures**.
 
-My work bridges modern full-stack development with **autonomous AI systems (LLMs, RAG)** and **bespoke Business Intelligence platforms**, transforming complex data streams into clean, actionable, and scalable digital products.
+Passionate about automating mission-critical business processes, integrating cutting-edge LLMs and RAG pipelines, and building bespoke, real-time Business Intelligence dashboards.
 
 <br/>
 
 | Focus Area | Core Technologies | Mission & Architecture |
 | :--- | :--- | :--- |
-| 🤖 **AI & Business Automation** | `n8n` · `Flowise` · `RAG` · `LLM APIs` | End-to-end process orchestration, agentic graphs, vector search, autonomous workflows |
-| 💻 **Full-Stack Engineering** | `TypeScript` · `Next.js` · `Python` · `SQL` | Scalable modern web platforms, clean API architectures, high-performance responsive UI |
-| 📊 **Data Analytics & Custom BI** | `HTML / CSS / JS (YJS)` · `ETL` · `SQL` | Bespoke web-based BI dashboards, real-time sync, data modeling, automated ETL pipelines |
+| 🤖 **AI & Business Automation** | `n8n` · `Flowise` · `RAG` · `LLM APIs` | Autonomous agents, multi-step workflow automations, vector retrieval pipelines |
+| 💻 **Full-Stack Engineering** | `TypeScript` · `Next.js` · `Python` · `SQL` | Scalable web applications, clean API architectures, reactive modern interfaces |
+| 📊 **Data Analytics & Custom BI** | `HTML / CSS / JS (YJS)` · `ETL` · `SQL` | Bespoke web-based BI platforms, collaborative state, automated ETL pipelines |
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
 #### 🤖 AI, Automations & Workflow Engineering
 <p>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Flowise-AI_Chains-412991?style=flat-square&logo=probot&logoColor=white" alt="Flowise" />
-  <img src="https://img.shields.io/badge/RAG_Systems-Vector_Search-009688?style=flat-square&logo=elasticstack&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/OpenAI_API-LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-Data_Flows-F7931E?style=flat-square&logo=apacheairflow&logoColor=white" alt="ETL" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-BI_Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="BI" />
+  <img src="https://img.shields.io/badge/n8n-Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Flowise-AI_Workflows-412991?style=flat-square" alt="Flowise" />
+  <img src="https://img.shields.io/badge/RAG-Vector_Pipelines-008080?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenAI-LLM_Integration-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/ETL-Data_Pipelines-F7931E?style=flat-square" alt="ETL" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="BI" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 #### 💻 Development & Infrastructure (Interactive Icons)
@@ -97,8 +100,6 @@ My work bridges modern full-stack development with **autonomous AI systems (LLMs
 
 ---
 
-<!-- FOOTER ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,26,30&height=110&section=footer" width="100%" alt="Footer Banner" />
   <p><i>⚡ Constantly building, automating, and scaling intelligent systems.</i></p>
 </div>
