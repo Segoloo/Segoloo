@@ -1,6 +1,6 @@
-<!-- CUSTOM HOSTED ANIMATED HEADER (Guaranteed 100% uptime, no third-party downtime) -->
+<!-- HERO BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/header.svg" width="100%" alt="Sebastian Gomez - Header Banner" />
+  <img src="https://raw.githubusercontent.com/Segoloo/Segoloo/main/assets/banner.jpg" width="100%" alt="Sebastian Gomez Lopez - Software Developer" />
 </div>
 
 <br/>
