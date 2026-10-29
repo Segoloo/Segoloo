@@ -35,44 +35,93 @@
 
 ---
 
-### ⚡ Overview
-
-Software Developer specialized in **Full-Stack Engineering**, **Business Automation**, and **AI & Data Architectures**.
-
-Passionate about automating mission-critical business processes, integrating cutting-edge LLMs and RAG pipelines, and building bespoke, real-time Business Intelligence dashboards.
+<div align="center">
+  <p>
+    <b>Software Developer &amp; Automation Architect</b><br/>
+    Bridging high-performance web engineering with <b>autonomous AI automations</b> and <b>custom Business Intelligence platforms</b>.
+  </p>
+</div>
 
 <br/>
 
-| Focus Area | Core Technologies | Mission & Architecture |
-| :--- | :--- | :--- |
-| 🤖 **AI & Business Automation** | `n8n` · `Flowise` · `RAG` · `LLM APIs` | Autonomous agents, multi-step workflow automations, vector retrieval pipelines |
-| 💻 **Full-Stack Engineering** | `TypeScript` · `Next.js` · `Python` · `SQL` | Scalable web applications, clean API architectures, reactive modern interfaces |
-| 📊 **Data Analytics & Custom BI** | `HTML / CSS / JS (YJS)` · `ETL` · `SQL` | Bespoke web-based BI platforms, collaborative state, automated ETL pipelines |
+<!-- CORE ARCHITECTURAL PILLARS (CARD-STYLE GRID) -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="center">
+        <h3>🤖 AI &amp; Automation</h3>
+      </th>
+      <th width="33%" align="center">
+        <h3>💻 Full-Stack Dev</h3>
+      </th>
+      <th width="33%" align="center">
+        <h3>📊 Data &amp; Custom BI</h3>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <p align="center">
+          <b>Autonomous Workflows &amp; Agentic Chains</b>
+        </p>
+        <p>
+          Designing intelligent business automations with <b>n8n</b>, multi-agent flows in <b>Flowise</b>, vector search with <b>RAG architectures</b>, and direct <b>LLM API</b> integrations.
+        </p>
+        <hr/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/n8n-Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+          <img src="https://img.shields.io/badge/Flowise-AI_Agents-6366F1?style=flat-square" alt="Flowise" />
+          <br/>
+          <img src="https://img.shields.io/badge/RAG-Vector_Search-008080?style=flat-square" alt="RAG" />
+          <img src="https://img.shields.io/badge/OpenAI-LLM_APIs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        </div>
+      </td>
+      <td valign="top">
+        <p align="center">
+          <b>Scalable, Reactive Modern Systems</b>
+        </p>
+        <p>
+          Building end-to-end applications with <b>Next.js</b>, <b>React</b>, and <b>TypeScript</b>, supported by robust <b>Python (FastAPI)</b> microservices and relational data stores.
+        </p>
+        <hr/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <br/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        </div>
+      </td>
+      <td valign="top">
+        <p align="center">
+          <b>Custom Web BI &amp; Data Pipelines</b>
+        </p>
+        <p>
+          Engineering bespoke web-based BI platforms in <b>HTML, CSS, JavaScript (YJS)</b> for real-time state synchronization, automated <b>ETL flows</b>, and deep SQL analytics.
+        </p>
+        <hr/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML_/_CSS_/_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+          <img src="https://img.shields.io/badge/YJS-Real--Time-7928CA?style=flat-square" alt="YJS" />
+          <br/>
+          <img src="https://img.shields.io/badge/ETL-Pipelines-F7931E?style=flat-square" alt="ETL" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tooling
-
+<!-- COMPLETE DEVELOPMENT ECOSYSTEM (INTERACTIVE SKILL ICONS) -->
 <div align="center">
-
-#### 🤖 AI, Automations & Workflow Engineering
-<p>
-  <img src="https://img.shields.io/badge/n8n-Automations-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Flowise-AI_Workflows-412991?style=flat-square" alt="Flowise" />
-  <img src="https://img.shields.io/badge/RAG-Vector_Pipelines-008080?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/OpenAI-LLM_Integration-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/ETL-Data_Pipelines-F7931E?style=flat-square" alt="ETL" />
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="BI" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
-
-#### 💻 Development & Infrastructure (Interactive Icons)
-<p>
+  <p><b>🛠️ Development &amp; Tooling Ecosystem</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,html,css,tailwind,postgres,mysql,fastapi,docker,git,github,vscode,postman&theme=dark" alt="Tech Stack" />
   </a>
-</p>
-
 </div>
 
 ---
